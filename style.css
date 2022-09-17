@@ -1,0 +1,73 @@
+body {
+    background-color: #121314;
+    background-image: url("/Pictures/Dragonflight.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.proimg {
+    height: 50%;
+    width: 50%;
+}
+
+h1 {
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2%;
+}
+
+.container-dungeons{
+    text-align: center;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+
+
+
+.container-classes {
+    text-align: center;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+
+.Image {
+    display: inline-block;
+    margin: 20px;
+    padding: 0px;
+    border: black 10px solid;
+    border-radius: 25px;
+    background-color: black;
+}
+
+.imgcorner {
+    border-radius: 25px;
+}
+
+.Image:hover {
+    transform: scale(1.1);
+}
+
+.Headline {
+
+    text-align: center;
+    font-size: 90px;
+    width: 50%;
+    display: block;
+    margin: 0px auto;
+    font-family: lobster;
+    color: #121314;
+    border: crimson 1px solid;
+    background-color: rgba(220, 20, 60, 0.788);
+}
+
+.Footer {
+    text-align: center;
+    padding: 20px;
+    border: crimson 1px solid;
+    background-color: crimson;
+}
+
+
+
+
